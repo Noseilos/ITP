@@ -1,0 +1,17 @@
+/* Gradient Styles for components/PostList.js */
+
+.card-with-outline {
+  border: 2px solid rgb(105, 97, 97); 
+}
+
+.gradient-1 {
+  background: linear-gradient(45deg, #ff6b6b, #ffc3a0);
+}
+
+.gradient-2 {
+  background: linear-gradient(45deg, #a18cd1, #fbc2eb);
+}
+
+.gradient-3 {
+  background: linear-gradient(45deg, #f3a183, #f7d6e0);
+}
